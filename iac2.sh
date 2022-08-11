@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#UPDATE SERVER
+# UPDATE SERVER
 
 echo 'start update server'
 
